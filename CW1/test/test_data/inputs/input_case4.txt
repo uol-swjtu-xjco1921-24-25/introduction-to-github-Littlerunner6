@@ -1,0 +1,41 @@
+>>>CASE1 螺旋路径验证
+# 长路径稳定性测试
+S
+S
+S
+D
+D
+D
+D
+S
+S
+A
+A
+A
+A
+W
+W
+D
+D
+D
+D
+D
+
+>>>CASE2 死胡同恢复测试
+# 路径回溯能力检验
+D
+D
+S
+S
+S
+A
+A
+W
+W
+D
+D
+S
+S
+S
+S
+Q
